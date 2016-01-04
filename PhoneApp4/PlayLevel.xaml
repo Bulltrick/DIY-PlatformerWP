@@ -1,0 +1,44 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="PhoneApp4.PlayLevel"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Landscape" Orientation="Landscape"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <!--Height and Width should be based on phone size-->
+            <Canvas x:Name="canvasScreen" HorizontalAlignment="Left" Height="480" Margin="0,0,0,0" VerticalAlignment="Top" Width="700">
+
+                <Canvas x:Name="canvasWorld" Height="480" Width="700" Top="0" Left="0" Background="Red"/>
+
+
+                <Button x:Name="btnA" Content="A" HorizontalAlignment="Left" VerticalAlignment="Top" Height="75" Width="75" Canvas.Left="592" Canvas.Top="328" Click="btnA_Click"/>
+                <Button x:Name="btnB" Content="B" HorizontalAlignment="Left" VerticalAlignment="Top" Height="75" Width="75" Canvas.Left="510" Canvas.Top="381" Click="btnB_Click" />
+                
+                <!--<Button x:Name="btnUP" Content="^" HorizontalAlignment="Left" VerticalAlignment="Top" Height="75" Width="75" Canvas.Left="85" Canvas.Top="308" Click="btnUP_Click"/>-->
+                <!--<Button x:Name="btnDOWN" Content="v" HorizontalAlignment="Left" VerticalAlignment="Top" Height="75" Width="75" Canvas.Left="85" Canvas.Top="381" Click="btnDOWN_Click"/>-->
+                <Button x:Name="btnLEFT" Content="&lt;" HorizontalAlignment="Left" VerticalAlignment="Top" Height="75" Width="75" Canvas.Left="23" Canvas.Top="346"/>
+                <Button x:Name="btnRIGHT" Content=">" HorizontalAlignment="Left" VerticalAlignment="Top" Height="75" Width="75" Canvas.Left="98" Canvas.Top="346"/>
+            </Canvas>
+
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

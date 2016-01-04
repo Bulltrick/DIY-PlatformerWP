@@ -1,0 +1,14 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="PhoneApp4" EntryPointType="PhoneApp4.App" RuntimeVersion="6.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="PhoneApp4" Source="PhoneApp4.dll" />
+    <AssemblyPart x:Name="AForge" Source="AForge.dll" />
+    <AssemblyPart x:Name="AForge.Imaging" Source="AForge.Imaging.dll" />
+    <AssemblyPart x:Name="AForge.Imaging.Formats" Source="AForge.Imaging.Formats.dll" />
+    <AssemblyPart x:Name="AForge.Math" Source="AForge.Math.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="Newtonsoft.Json" Source="Newtonsoft.Json.dll" />
+    <AssemblyPart x:Name="Shim" Source="Shim.dll" />
+    <AssemblyPart x:Name="Shim.Drawing" Source="Shim.Drawing.dll" />
+  </Deployment.Parts>
+</Deployment>

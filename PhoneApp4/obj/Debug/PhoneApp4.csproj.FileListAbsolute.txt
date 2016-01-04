@@ -1,0 +1,207 @@
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\PhoneApp4.dll
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\PhoneApp4.pdb
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\AppManifest.xaml
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\PhoneApp4_Debug_AnyCPU.xap
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\App.g.cs
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\MainPage.g.cs
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\PhoneApp4.g.resources
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\PhoneApp4.Resources.AppResources.resources
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\PhoneApp4.csproj.GenerateResource.Cache
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\PhoneApp4.dll
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\PhoneApp4.pdb
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\XapCacheFile.xml
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\HelpPage.g.cs
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\CreateLevel.g.cs
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\PhoneApp4.csprojResolveAssemblyReference.cache
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\SelectLevel.g.cs
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\PlayLevel.g.cs
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\AForge.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\AForge.Imaging.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\AForge.Math.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\Shim.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\Shim.Drawing.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\AForge.pdb
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\AForge.Imaging.pdb
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\AForge.Imaging.Formats.pdb
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\AForge.Math.pdb
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\Shim.pdb
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\Shim.Drawing.pdb
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bulltrick\documents\visual studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bulltrick\Documents\Visual Studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\resources.pri
+C:\Users\Bulltrick\Documents\Visual Studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\AppxManifest.xml
+C:\Users\Bulltrick\Documents\Visual Studio 2012\Projects\PhoneApp4\PhoneApp4\Bin\Debug\PhoneApp4.build.appxrecipe
+C:\Users\Bulltrick\Documents\Visual Studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\priconfig.xml
+C:\Users\Bulltrick\Documents\Visual Studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\priconfig.xml.intermediate
+C:\Users\Bulltrick\Documents\Visual Studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\layout.resfiles
+C:\Users\Bulltrick\Documents\Visual Studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\layout.resfiles.intermediate
+C:\Users\Bulltrick\Documents\Visual Studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\resources.resfiles
+C:\Users\Bulltrick\Documents\Visual Studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\resources.resfiles.intermediate
+C:\Users\Bulltrick\Documents\Visual Studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\pri.resfiles
+C:\Users\Bulltrick\Documents\Visual Studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\pri.resfiles.intermediate
+C:\Users\Bulltrick\Documents\Visual Studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\qualifiers.txt
+C:\Users\Bulltrick\Documents\Visual Studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Bulltrick\Documents\Visual Studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Bulltrick\Documents\Visual Studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\ProjectArchitectures.txt
+C:\Users\Bulltrick\Documents\Visual Studio 2012\Projects\PhoneApp4\PhoneApp4\obj\Debug\MDILProjectFiles.xml
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\Assets\ApplicationIcon.png
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\PhoneApp4.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\PhoneApp4.pdb
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\resources.pri
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\AppxManifest.xml
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\PhoneApp4.build.appxrecipe
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\Properties\WMAppManifest.xml
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\AppManifest.xaml
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\PhoneApp4_Debug_AnyCPU.xap
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\Newtonsoft.Json.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\Shim.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\AForge.pdb
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\AForge.Imaging.pdb
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\AForge.Imaging.Formats.pdb
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\AForge.Math.pdb
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\Newtonsoft.Json.xml
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\Shim.pdb
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\Shim.Drawing.pdb
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\PhoneApp4.csprojResolveAssemblyReference.cache
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\App.g.cs
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\CreateLevel.g.cs
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\MainPage.g.cs
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\HelpPage.g.cs
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\PlayLevel.g.cs
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\SelectLevel.g.cs
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\PhoneApp4.g.resources
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\PhoneApp4.Resources.AppResources.resources
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\PhoneApp4.csproj.GenerateResource.Cache
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\PhoneApp4.dll
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\PhoneApp4.pdb
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\priconfig.xml
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\priconfig.xml.intermediate
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\layout.resfiles
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\layout.resfiles.intermediate
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\resources.resfiles
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\resources.resfiles.intermediate
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\pri.resfiles
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\pri.resfiles.intermediate
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\qualifiers.txt
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\qualifiers.txt.intermediate
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\ProjectArchitectures.txt
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\MDILProjectFiles.xml
+C:\DIY-Platformer\PhoneApp4v3\PhoneApp4\PhoneApp4\obj\Debug\XapCacheFile.xml
